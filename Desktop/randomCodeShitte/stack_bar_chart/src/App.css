@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+}
+
+
+.title{
+  font-size: 45px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  text-align: left;
+  text-decoration: bold;
+}
+
+.dataContainer{
+  width: 1500px;
+  display:flex;
+  flex-direction: row;
+}

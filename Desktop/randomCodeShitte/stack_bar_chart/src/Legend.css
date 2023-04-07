@@ -1,0 +1,16 @@
+.legendContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.legendItem{
+    margin: 5px 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.description{
+    margin-left:10px;
+    width:100px
+}
